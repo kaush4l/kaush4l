@@ -5,17 +5,17 @@
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=kausha4l.kaush4l)
 
 ## About me
-Hello there This is Kaushal a Full Stack Developer and Tech enthusiast.
+Hello there!!! This is Kaushal a Full Stack Developer and Tech enthusiast.
 To me learning should is the most fun and exciting part of every work that I do.
 
 ## 🔭 I’m currently working on ...
-- Building Android custom ROM 
+- Small projects using Raspberry PI
 
 ## 🌱 I’m currently learning ...
 - Cloud technology
 - Building Android custom ROM 
 - Scripts for automation
-- Raspberry pi and arduino to make something that glows or moves :stuck_out_tongue_closed_eyes: 
+- Raspberry pi and arduino to make something that clicks(camera) or moves(robot) :stuck_out_tongue_closed_eyes: 
 
 ## 👯 I’m looking to collaborate on ...
 - Anything related to building custom Android ROM's
