@@ -12,7 +12,6 @@ To me learning should is the most fun and exciting part of every work that I do.
 - Small projects using Raspberry PI
 
 ## 🌱 I’m currently learning ...
-- Cloud technology
 - Building Android custom ROM 
 - Scripts for automation
 - Raspberry pi and arduino to make something that clicks(camera) or moves(robot) :stuck_out_tongue_closed_eyes: 
@@ -20,18 +19,9 @@ To me learning should is the most fun and exciting part of every work that I do.
 ## 👯 I’m looking to collaborate on ...
 - Anything related to building custom Android ROM's
 - Automation or making project modular
-- Cloud technology to get the working pushed to cloud and access it anywhere
-- Anything that helps me learn new things or apply the knowledge I learned
-
-## 🤔 I’m looking for help with ...
-- Understanding the Android build systems(Want to build and customize right from kernel level)
-- Wanted to undertand how to build a drone using Raspberry pi and/or arduino
 
 ## 💬 Ask me about ...
 >*Anything you can think of and help me think of answers to questions I cannot answer :grin:*
-
-## 📫 How to reach me: ...
-Mail me : kaushal.beyblader@gmail.com
 
 Instagram : @Kaush4l
 
