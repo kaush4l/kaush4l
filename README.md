@@ -2,26 +2,22 @@
 
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/Kaush4l.svg?style=social&label=Kaush4l)](https://twitter.com/Kaush4l)
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/kaush4l/)
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=kausha4l.kaush4l)
 
 ## About me
 Hello there!!! This is Kaushal a Full Stack Developer and Tech enthusiast.
-To me learning should is the most fun and exciting part of every work that I do.
-
-## 🔭 I’m currently working on ...
-- Small projects using Raspberry PI
+To me learning is the most fun and exciting part of every work that I do.
 
 ## 🌱 I’m currently learning ...
-- Building Android custom ROM 
-- Scripts for automation
-- Raspberry pi and arduino to make something that clicks(camera) or moves(robot) :stuck_out_tongue_closed_eyes: 
+- Scripts for automation(Python, rust)
+- Custom Android ROM's
+- Raspberry pi and arduino to make something that clicks or moves :stuck_out_tongue_closed_eyes: 
 
 ## 👯 I’m looking to collaborate on ...
-- Anything related to building custom Android ROM's
+- Implementing a terminal(Using rust or python) as backend server. Terminal application in browser.
 - Automation or making project modular
 
 ## 💬 Ask me about ...
->*Anything you can think of and help me think of answers to questions I cannot answer :grin:*
+>*Anything you can think of :grin:*
 
 Instagram : @Kaush4l
 
