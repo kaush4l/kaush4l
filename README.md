@@ -4,22 +4,19 @@
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/kaush4l/)
 
 ## About me
-Hello there!!! This is Kaushal a Full Stack Developer and Tech enthusiast.
-To me learning is the most fun and exciting part of every work that I do.
+Just a Developer and Tech enthusiast.
 
 ## 🌱 I’m currently learning ...
-- Scripts for automation(Python, rust)
-- Custom Android ROM's
-- Raspberry pi and arduino to make something that clicks or moves :stuck_out_tongue_closed_eyes: 
+- The basics
 
 ## 👯 I’m looking to collaborate on ...
-- Implementing a terminal(Using rust or python) as backend server. Terminal application in browser.
-- Automation or making project modular
+- Anything that can help me learn.
+- Rust, AI, LLM's, zig, compillers
 
 ## 💬 Ask me about ...
 >*Anything you can think of :grin:*
 
-Instagram : @Kaush4l
+Telegram : @Kaush4l
 
 <!--
 Here are some ideas to get you started:
